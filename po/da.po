@@ -1,0 +1,99 @@
+# Danish translation
+# Copyright (C) 2026
+msgid ""
+msgstr ""
+"Project-Id-Version: overview-toggle-always-on-top@tobmanbot\n"
+"POT-Creation-Date: 2026-05-12\n"
+"PO-Revision-Date: 2026-05-12\n"
+"Language: da\n"
+"Language-Team: Danish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "📌 Always on Top"
+msgstr "📌 Altid øverst"
+
+msgid "PiP Settings"
+msgstr "PiP-indstillinger"
+
+msgid "PiP Start Position"
+msgstr "PiP-startposition"
+
+msgid "Where the PiP window is moved when opened."
+msgstr "Hvor PiP-vinduet flyttes hen, når det åbnes."
+
+msgid "None (don't move)"
+msgstr "Ingen (flyt ikke)"
+
+msgid "Top Left"
+msgstr "Øverst til venstre"
+
+msgid "Top Right"
+msgstr "Øverst til højre"
+
+msgid "Bottom Left"
+msgstr "Nederst til venstre"
+
+msgid "Bottom Right"
+msgstr "Nederst til højre"
+
+msgid "Center"
+msgstr "Midten"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Distance from Screen Edge"
+msgstr "Afstand til skærmkant"
+
+msgid "Pixel distance to edges (only when position is set)"
+msgstr "Pixelafstand til kanter (kun når position er angivet)"
+
+msgid "PiP Start Size"
+msgstr "PiP-startstørrelse"
+
+msgid ""
+"Size to set a new PiP window to when opened.\n"
+"Pixel override takes precedence over percentage. 0 = disabled."
+msgstr ""
+"Størrelse som et nyt PiP-vindue sættes til ved åbning.\n"
+"Pixel-overskrivning har forrang over procent. 0 = deaktiveret."
+
+msgid "Size as % of Screen Width"
+msgstr "Størrelse som % af skærmbredde"
+
+msgid "0 = disabled • Recommended: 20–30 %"
+msgstr "0 = deaktiveret • Anbefalet: 20–30 %"
+
+msgid "Fixed Width in Pixels (Override)"
+msgstr "Fast bredde i pixels (overskrivning)"
+
+msgid "0 = disabled • Takes precedence over percentage"
+msgstr "0 = deaktiveret • Har forrang over procent"
+
+msgid "Height"
+msgstr "Højde"
+
+msgid "Always proportional to set width (original aspect ratio)."
+msgstr "Altid proportionel med den indstillede bredde (originalforhold)."
+
+msgid "Custom PiP Window Titles (Optional)"
+msgstr "Brugerdefinerede PiP-vinduestitler (valgfrit)"
+
+msgid ""
+"Only needed if your browser uses a PiP window title not recognized "
+"automatically.\n"
+"The extension already covers 15 languages built-in — most users can leave "
+"this empty."
+msgstr ""
+"Kun nødvendigt hvis din browser bruger en PiP-vinduestitel, der ikke "
+"genkendes automatisk.\n"
+"Udvidelsen understøtter allerede 15 sprog — de fleste brugere kan lade "
+"dette felt stå tomt."
+
+msgid "Add title fragment…"
+msgstr "Tilføj titelfragment…"
+
+msgid "Remove"
+msgstr "Fjern"

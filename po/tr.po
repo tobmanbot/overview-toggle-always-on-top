@@ -1,0 +1,98 @@
+# Turkish translation
+# Copyright (C) 2026
+msgid ""
+msgstr ""
+"Project-Id-Version: overview-toggle-always-on-top@tobmanbot\n"
+"POT-Creation-Date: 2026-05-12\n"
+"PO-Revision-Date: 2026-05-12\n"
+"Language: tr\n"
+"Language-Team: Turkish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "📌 Always on Top"
+msgstr "📌 Her Zaman Üstte"
+
+msgid "PiP Settings"
+msgstr "PiP Ayarları"
+
+msgid "PiP Start Position"
+msgstr "PiP Başlangıç Konumu"
+
+msgid "Where the PiP window is moved when opened."
+msgstr "PiP penceresi açıldığında nereye taşınır."
+
+msgid "None (don't move)"
+msgstr "Yok (taşıma)"
+
+msgid "Top Left"
+msgstr "Sol üst"
+
+msgid "Top Right"
+msgstr "Sağ üst"
+
+msgid "Bottom Left"
+msgstr "Sol alt"
+
+msgid "Bottom Right"
+msgstr "Sağ alt"
+
+msgid "Center"
+msgstr "Orta"
+
+msgid "Position"
+msgstr "Konum"
+
+msgid "Distance from Screen Edge"
+msgstr "Ekran kenarından mesafe"
+
+msgid "Pixel distance to edges (only when position is set)"
+msgstr "Kenarlara piksel mesafesi (yalnızca konum ayarlandığında)"
+
+msgid "PiP Start Size"
+msgstr "PiP Başlangıç Boyutu"
+
+msgid ""
+"Size to set a new PiP window to when opened.\n"
+"Pixel override takes precedence over percentage. 0 = disabled."
+msgstr ""
+"Yeni bir PiP penceresi açıldığında ayarlanacak boyut.\n"
+"Piksel değeri yüzde değerinden önce gelir. 0 = devre dışı."
+
+msgid "Size as % of Screen Width"
+msgstr "Ekran genişliğinin % olarak boyutu"
+
+msgid "0 = disabled • Recommended: 20–30 %"
+msgstr "0 = devre dışı • Önerilen: 20–30 %"
+
+msgid "Fixed Width in Pixels (Override)"
+msgstr "Piksel cinsinden sabit genişlik (öncelik)"
+
+msgid "0 = disabled • Takes precedence over percentage"
+msgstr "0 = devre dışı • Yüzde değerinden önce gelir"
+
+msgid "Height"
+msgstr "Yükseklik"
+
+msgid "Always proportional to set width (original aspect ratio)."
+msgstr "Her zaman ayarlanan genişlikle orantılı (orijinal en-boy oranı)."
+
+msgid "Custom PiP Window Titles (Optional)"
+msgstr "Özel PiP Pencere Başlıkları (İsteğe Bağlı)"
+
+msgid ""
+"Only needed if your browser uses a PiP window title not recognized "
+"automatically.\n"
+"The extension already covers 15 languages built-in — most users can leave "
+"this empty."
+msgstr ""
+"Yalnızca tarayıcınız otomatik olarak tanınmayan bir PiP pencere başlığı "
+"kullanıyorsa gereklidir.\n"
+"Uzantı zaten 15 dili desteklemektedir — çoğu kullanıcı bunu boş bırakabilir."
+
+msgid "Add title fragment…"
+msgstr "Başlık parçası ekle…"
+
+msgid "Remove"
+msgstr "Kaldır"

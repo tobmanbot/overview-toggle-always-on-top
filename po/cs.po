@@ -1,0 +1,99 @@
+# Czech translation
+# Copyright (C) 2026
+msgid ""
+msgstr ""
+"Project-Id-Version: overview-toggle-always-on-top@tobmanbot\n"
+"POT-Creation-Date: 2026-05-12\n"
+"PO-Revision-Date: 2026-05-12\n"
+"Language: cs\n"
+"Language-Team: Czech\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "📌 Always on Top"
+msgstr "📌 Vždy nahoře"
+
+msgid "PiP Settings"
+msgstr "Nastavení PiP"
+
+msgid "PiP Start Position"
+msgstr "Výchozí pozice PiP"
+
+msgid "Where the PiP window is moved when opened."
+msgstr "Kam se okno PiP přesune při otevření."
+
+msgid "None (don't move)"
+msgstr "Žádná (nepřesouvat)"
+
+msgid "Top Left"
+msgstr "Vlevo nahoře"
+
+msgid "Top Right"
+msgstr "Vpravo nahoře"
+
+msgid "Bottom Left"
+msgstr "Vlevo dole"
+
+msgid "Bottom Right"
+msgstr "Vpravo dole"
+
+msgid "Center"
+msgstr "Střed"
+
+msgid "Position"
+msgstr "Pozice"
+
+msgid "Distance from Screen Edge"
+msgstr "Vzdálenost od okraje obrazovky"
+
+msgid "Pixel distance to edges (only when position is set)"
+msgstr "Vzdálenost v pixelech od okrajů (pouze pokud je nastavena pozice)"
+
+msgid "PiP Start Size"
+msgstr "Výchozí velikost PiP"
+
+msgid ""
+"Size to set a new PiP window to when opened.\n"
+"Pixel override takes precedence over percentage. 0 = disabled."
+msgstr ""
+"Velikost, na kterou se nastaví nové okno PiP při otevření.\n"
+"Hodnota v pixelech má přednost před procentuální. 0 = vypnuto."
+
+msgid "Size as % of Screen Width"
+msgstr "Velikost jako % šířky obrazovky"
+
+msgid "0 = disabled • Recommended: 20–30 %"
+msgstr "0 = vypnuto • Doporučeno: 20–30 %"
+
+msgid "Fixed Width in Pixels (Override)"
+msgstr "Pevná šířka v pixelech (přepsání)"
+
+msgid "0 = disabled • Takes precedence over percentage"
+msgstr "0 = vypnuto • Má přednost před procentuální hodnotou"
+
+msgid "Height"
+msgstr "Výška"
+
+msgid "Always proportional to set width (original aspect ratio)."
+msgstr "Vždy proporcionální k nastavené šířce (původní poměr stran)."
+
+msgid "Custom PiP Window Titles (Optional)"
+msgstr "Vlastní názvy PiP okna (volitelné)"
+
+msgid ""
+"Only needed if your browser uses a PiP window title not recognized "
+"automatically.\n"
+"The extension already covers 15 languages built-in — most users can leave "
+"this empty."
+msgstr ""
+"Potřebné pouze v případě, že váš prohlížeč používá název PiP okna, který "
+"není automaticky rozpoznán.\n"
+"Rozšíření již obsahuje 15 jazyků — většina uživatelů může toto pole "
+"nechat prázdné."
+
+msgid "Add title fragment…"
+msgstr "Přidat fragment názvu…"
+
+msgid "Remove"
+msgstr "Odebrat"

@@ -1,0 +1,10 @@
+{
+  "name": "Overview Toggle Always on Top",
+  "description": "Right-click any window in the Overview to toggle always-on-top. Shows a 📌 badge on pinned windows. Auto-pins Picture-in-Picture windows.",
+  "uuid": "overview-toggle-always-on-top@tobmanbot",
+  "version": 3,
+  "gettext-domain": "overview-toggle-always-on-top@tobmanbot",
+  "settings-schema": "org.gnome.shell.extensions.overview-toggle-always-on-top",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "url": "https://github.com/tobmanbot/overview-toggle-always-on-top"
+}

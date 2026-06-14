@@ -1,0 +1,99 @@
+# Finnish translation
+# Copyright (C) 2026
+msgid ""
+msgstr ""
+"Project-Id-Version: overview-toggle-always-on-top@tobmanbot\n"
+"POT-Creation-Date: 2026-05-12\n"
+"PO-Revision-Date: 2026-05-12\n"
+"Language: fi\n"
+"Language-Team: Finnish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "📌 Always on Top"
+msgstr "📌 Aina päällimmäisenä"
+
+msgid "PiP Settings"
+msgstr "PiP-asetukset"
+
+msgid "PiP Start Position"
+msgstr "PiP-aloitussijainti"
+
+msgid "Where the PiP window is moved when opened."
+msgstr "Minne PiP-ikkuna siirretään avattaessa."
+
+msgid "None (don't move)"
+msgstr "Ei mitään (älä siirrä)"
+
+msgid "Top Left"
+msgstr "Vasemmalle ylös"
+
+msgid "Top Right"
+msgstr "Oikealle ylös"
+
+msgid "Bottom Left"
+msgstr "Vasemmalle alas"
+
+msgid "Bottom Right"
+msgstr "Oikealle alas"
+
+msgid "Center"
+msgstr "Keskelle"
+
+msgid "Position"
+msgstr "Sijainti"
+
+msgid "Distance from Screen Edge"
+msgstr "Etäisyys näytön reunasta"
+
+msgid "Pixel distance to edges (only when position is set)"
+msgstr "Pikselietäisyys reunoista (vain kun sijainti on asetettu)"
+
+msgid "PiP Start Size"
+msgstr "PiP-aloituskoko"
+
+msgid ""
+"Size to set a new PiP window to when opened.\n"
+"Pixel override takes precedence over percentage. 0 = disabled."
+msgstr ""
+"Koko, johon uusi PiP-ikkuna asetetaan avattaessa.\n"
+"Pikseliarvo ohittaa prosenttiarvon. 0 = pois käytöstä."
+
+msgid "Size as % of Screen Width"
+msgstr "Koko % näytön leveydestä"
+
+msgid "0 = disabled • Recommended: 20–30 %"
+msgstr "0 = pois käytöstä • Suositus: 20–30 %"
+
+msgid "Fixed Width in Pixels (Override)"
+msgstr "Kiinteä leveys pikseleinä (korvaus)"
+
+msgid "0 = disabled • Takes precedence over percentage"
+msgstr "0 = pois käytöstä • Ohittaa prosenttiarvon"
+
+msgid "Height"
+msgstr "Korkeus"
+
+msgid "Always proportional to set width (original aspect ratio)."
+msgstr "Aina suhteessa asetettuun leveyteen (alkuperäinen kuvasuhde)."
+
+msgid "Custom PiP Window Titles (Optional)"
+msgstr "Mukautetut PiP-ikkunaotsikot (valinnainen)"
+
+msgid ""
+"Only needed if your browser uses a PiP window title not recognized "
+"automatically.\n"
+"The extension already covers 15 languages built-in — most users can leave "
+"this empty."
+msgstr ""
+"Tarvitaan vain, jos selaimesi käyttää PiP-ikkunaotsikkoa, jota ei "
+"tunnisteta automaattisesti.\n"
+"Laajennus tukee jo valmiiksi 15 kieltä — useimmat käyttäjät voivat jättää "
+"tämän tyhjäksi."
+
+msgid "Add title fragment…"
+msgstr "Lisää otsikkofragmentti…"
+
+msgid "Remove"
+msgstr "Poista"

@@ -1,0 +1,98 @@
+# Swedish translation
+# Copyright (C) 2026
+msgid ""
+msgstr ""
+"Project-Id-Version: overview-toggle-always-on-top@tobmanbot\n"
+"POT-Creation-Date: 2026-05-12\n"
+"PO-Revision-Date: 2026-05-12\n"
+"Language: sv\n"
+"Language-Team: Swedish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "📌 Always on Top"
+msgstr "📌 Alltid överst"
+
+msgid "PiP Settings"
+msgstr "PiP-inställningar"
+
+msgid "PiP Start Position"
+msgstr "PiP-startposition"
+
+msgid "Where the PiP window is moved when opened."
+msgstr "Vart PiP-fönstret flyttas när det öppnas."
+
+msgid "None (don't move)"
+msgstr "Ingen (flytta inte)"
+
+msgid "Top Left"
+msgstr "Uppe till vänster"
+
+msgid "Top Right"
+msgstr "Uppe till höger"
+
+msgid "Bottom Left"
+msgstr "Nere till vänster"
+
+msgid "Bottom Right"
+msgstr "Nere till höger"
+
+msgid "Center"
+msgstr "Mitten"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Distance from Screen Edge"
+msgstr "Avstånd från skärmkant"
+
+msgid "Pixel distance to edges (only when position is set)"
+msgstr "Pixelavstånd till kanter (endast när position är inställd)"
+
+msgid "PiP Start Size"
+msgstr "PiP-startstorlek"
+
+msgid ""
+"Size to set a new PiP window to when opened.\n"
+"Pixel override takes precedence over percentage. 0 = disabled."
+msgstr ""
+"Storlek som ett nytt PiP-fönster ställs in på vid öppning.\n"
+"Pixelöverstyrning har företräde framför procent. 0 = inaktiverat."
+
+msgid "Size as % of Screen Width"
+msgstr "Storlek som % av skärmbredd"
+
+msgid "0 = disabled • Recommended: 20–30 %"
+msgstr "0 = inaktiverat • Rekommenderat: 20–30 %"
+
+msgid "Fixed Width in Pixels (Override)"
+msgstr "Fast bredd i pixlar (överstyrning)"
+
+msgid "0 = disabled • Takes precedence over percentage"
+msgstr "0 = inaktiverat • Har företräde framför procent"
+
+msgid "Height"
+msgstr "Höjd"
+
+msgid "Always proportional to set width (original aspect ratio)."
+msgstr "Alltid proportionell mot inställd bredd (ursprungligt bildförhållande)."
+
+msgid "Custom PiP Window Titles (Optional)"
+msgstr "Anpassade PiP-fönsterrubriker (valfritt)"
+
+msgid ""
+"Only needed if your browser uses a PiP window title not recognized "
+"automatically.\n"
+"The extension already covers 15 languages built-in — most users can leave "
+"this empty."
+msgstr ""
+"Behövs bara om din webbläsare använder en PiP-fönsterrubrik som inte "
+"känns igen automatiskt.\n"
+"Tillägget stöder redan 15 språk — de flesta användare kan lämna detta tomt."
+
+msgid "Add title fragment…"
+msgstr "Lägg till titelfragment…"
+
+msgid "Remove"
+msgstr "Ta bort"

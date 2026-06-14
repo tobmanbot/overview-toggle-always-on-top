@@ -1,0 +1,99 @@
+# German translation
+# Copyright (C) 2026
+msgid ""
+msgstr ""
+"Project-Id-Version: overview-toggle-always-on-top@tobmanbot\n"
+"POT-Creation-Date: 2026-05-12\n"
+"PO-Revision-Date: 2026-05-12\n"
+"Language: de\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "📌 Always on Top"
+msgstr "📌 Immer im Vordergrund"
+
+msgid "PiP Settings"
+msgstr "PiP-Einstellungen"
+
+msgid "PiP Start Position"
+msgstr "PiP-Startposition"
+
+msgid "Where the PiP window is moved when opened."
+msgstr "Wohin das PiP-Fenster beim Öffnen verschoben wird."
+
+msgid "None (don't move)"
+msgstr "Keine (nicht verschieben)"
+
+msgid "Top Left"
+msgstr "Oben links"
+
+msgid "Top Right"
+msgstr "Oben rechts"
+
+msgid "Bottom Left"
+msgstr "Unten links"
+
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+msgid "Center"
+msgstr "Mitte"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Distance from Screen Edge"
+msgstr "Abstand vom Bildschirmrand"
+
+msgid "Pixel distance to edges (only when position is set)"
+msgstr "Pixel-Abstand zu den Kanten (nur wenn Position gesetzt)"
+
+msgid "PiP Start Size"
+msgstr "PiP-Startgröße"
+
+msgid ""
+"Size to set a new PiP window to when opened.\n"
+"Pixel override takes precedence over percentage. 0 = disabled."
+msgstr ""
+"Größe, auf die ein neues PiP-Fenster beim Öffnen gesetzt wird.\n"
+"Pixel-Override hat Vorrang vor dem Prozentwert. 0 = deaktiviert."
+
+msgid "Size as % of Screen Width"
+msgstr "Größe in % der Bildschirmbreite"
+
+msgid "0 = disabled • Recommended: 20–30 %"
+msgstr "0 = deaktiviert • Empfehlung: 20–30 %"
+
+msgid "Fixed Width in Pixels (Override)"
+msgstr "Feste Breite in Pixeln (Override)"
+
+msgid "0 = disabled • Takes precedence over percentage"
+msgstr "0 = deaktiviert • Hat Vorrang vor dem Prozentwert"
+
+msgid "Height"
+msgstr "Höhe"
+
+msgid "Always proportional to set width (original aspect ratio)."
+msgstr "Wird immer proportional zur gesetzten Breite berechnet (Original-Seitenverhältnis)."
+
+msgid "Custom PiP Window Titles (Optional)"
+msgstr "Eigene PiP-Fenstertitel (optional)"
+
+msgid ""
+"Only needed if your browser uses a PiP window title not recognized "
+"automatically.\n"
+"The extension already covers 15 languages built-in — most users can leave "
+"this empty."
+msgstr ""
+"Nur nötig, wenn dein Browser einen PiP-Fenstertitel verwendet, der nicht "
+"automatisch erkannt wird.\n"
+"Die Extension erkennt bereits 15 Sprachen — die meisten Nutzer können "
+"dieses Feld leer lassen."
+
+msgid "Add title fragment…"
+msgstr "Titelfragment hinzufügen…"
+
+msgid "Remove"
+msgstr "Entfernen"

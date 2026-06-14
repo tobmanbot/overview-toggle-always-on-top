@@ -1,0 +1,99 @@
+# Dutch translation
+# Copyright (C) 2026
+msgid ""
+msgstr ""
+"Project-Id-Version: overview-toggle-always-on-top@tobmanbot\n"
+"POT-Creation-Date: 2026-05-12\n"
+"PO-Revision-Date: 2026-05-12\n"
+"Language: nl\n"
+"Language-Team: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "📌 Always on Top"
+msgstr "📌 Altijd bovenaan"
+
+msgid "PiP Settings"
+msgstr "PiP-instellingen"
+
+msgid "PiP Start Position"
+msgstr "PiP-startpositie"
+
+msgid "Where the PiP window is moved when opened."
+msgstr "Waarheen het PiP-venster wordt verplaatst bij het openen."
+
+msgid "None (don't move)"
+msgstr "Geen (niet verplaatsen)"
+
+msgid "Top Left"
+msgstr "Linksboven"
+
+msgid "Top Right"
+msgstr "Rechtsboven"
+
+msgid "Bottom Left"
+msgstr "Linksonder"
+
+msgid "Bottom Right"
+msgstr "Rechtsonder"
+
+msgid "Center"
+msgstr "Midden"
+
+msgid "Position"
+msgstr "Positie"
+
+msgid "Distance from Screen Edge"
+msgstr "Afstand tot schermrand"
+
+msgid "Pixel distance to edges (only when position is set)"
+msgstr "Pixelafstand tot randen (alleen als positie is ingesteld)"
+
+msgid "PiP Start Size"
+msgstr "PiP-startgrootte"
+
+msgid ""
+"Size to set a new PiP window to when opened.\n"
+"Pixel override takes precedence over percentage. 0 = disabled."
+msgstr ""
+"Grootte waarnaar een nieuw PiP-venster wordt ingesteld bij het openen.\n"
+"Pixeloverschrijving heeft voorrang boven percentage. 0 = uitgeschakeld."
+
+msgid "Size as % of Screen Width"
+msgstr "Grootte als % van schermbreedte"
+
+msgid "0 = disabled • Recommended: 20–30 %"
+msgstr "0 = uitgeschakeld • Aanbevolen: 20–30 %"
+
+msgid "Fixed Width in Pixels (Override)"
+msgstr "Vaste breedte in pixels (overschrijving)"
+
+msgid "0 = disabled • Takes precedence over percentage"
+msgstr "0 = uitgeschakeld • Heeft voorrang boven percentage"
+
+msgid "Height"
+msgstr "Hoogte"
+
+msgid "Always proportional to set width (original aspect ratio)."
+msgstr "Altijd proportioneel aan de ingestelde breedte (originele beeldverhouding)."
+
+msgid "Custom PiP Window Titles (Optional)"
+msgstr "Aangepaste PiP-venstertitels (optioneel)"
+
+msgid ""
+"Only needed if your browser uses a PiP window title not recognized "
+"automatically.\n"
+"The extension already covers 15 languages built-in — most users can leave "
+"this empty."
+msgstr ""
+"Alleen nodig als uw browser een PiP-venstertitel gebruikt die niet "
+"automatisch wordt herkend.\n"
+"De extensie ondersteunt al 15 talen — de meeste gebruikers kunnen dit "
+"veld leeg laten."
+
+msgid "Add title fragment…"
+msgstr "Titelfragment toevoegen…"
+
+msgid "Remove"
+msgstr "Verwijderen"

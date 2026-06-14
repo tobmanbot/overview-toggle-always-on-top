@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.overview-toggle-always-on-top"
+          path="/org/gnome/shell/extensions/overview-toggle-always-on-top/">
+
+    <key name="pip-size-percent" type="i">
+      <default>25</default>
+      <summary>PiP Start-Größe in % der Bildschirmbreite</summary>
+      <description>
+        Breite des PiP-Fensters beim Start als Prozentsatz der Bildschirmbreite (5–80).
+        Die Höhe wird proportional berechnet. 0 = deaktiviert (keine Größenänderung).
+      </description>
+    </key>
+
+    <key name="pip-size-pixels" type="i">
+      <default>0</default>
+      <summary>PiP Start-Breite in Pixeln (Override)</summary>
+      <description>
+        Wenn größer 0, wird diese feste Breite in Pixeln statt des Prozentwerts verwendet.
+        Höhe wird proportional berechnet. 0 = deaktiviert, Prozentwert gilt.
+      </description>
+    </key>
+
+    <key name="pip-position" type="s">
+      <default>'bottom-right'</default>
+      <summary>PiP Startposition</summary>
+      <description>
+        Position des PiP-Fensters nach dem Öffnen.
+        Werte: top-left, top-right, bottom-left, bottom-right, center, none.
+        none = keine Positionsänderung.
+      </description>
+    </key>
+
+    <key name="pip-position-margin" type="i">
+      <default>20</default>
+      <summary>Abstand vom Bildschirmrand in Pixeln</summary>
+      <description>
+        Abstand zwischen PiP-Fenster und Bildschirmrand (nur wenn pip-position != none).
+      </description>
+    </key>
+
+    <key name="pip-extra-titles" type="as">
+      <default>[]</default>
+      <summary>Additional PiP window title fragments</summary>
+      <description>
+        Extra window title fragments (case-insensitive) to treat as PiP windows.
+        Only needed if your browser uses a title not covered by the built-in list.
+      </description>
+    </key>
+
+  </schema>
+</schemalist>
