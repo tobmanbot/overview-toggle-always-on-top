@@ -1,5 +1,5 @@
 /**
- * Overview Toggle Always on Top — GNOME Shell 45-50
+ * Overview Toggle Always on Top — GNOME Shell 45-51
  *
  * - Auto-pins PiP windows (Chrome/Firefox) on open
  * - Right-click any window in the Overview to toggle always-on-top
